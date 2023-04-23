@@ -1,0 +1,7 @@
+string = input()
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print(string[a:a+b])
+print(string[c:-d])
